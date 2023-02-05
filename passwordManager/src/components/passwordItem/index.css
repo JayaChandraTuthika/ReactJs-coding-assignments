@@ -1,0 +1,63 @@
+.list-item-container {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  width: 300px;
+  border: 1px solid #b6c3ca;
+  border-radius: 5px;
+  height: 120px;
+  margin: 15px;
+}
+.first-letter-website {
+  color: white;
+  padding: 12px 18px;
+  margin: 5px;
+  border-radius: 30px;
+  font-size: 20px;
+}
+.website {
+  font-size: 22px;
+  color: white;
+  margin: 1px 5px;
+}
+.username {
+  font-size: 18px;
+  color: white;
+  margin: 1px 5px;
+}
+.password {
+  font-size: 17px;
+  color: white;
+  margin: 1px 8px;
+}
+.invisible-password {
+  margin-top: 10px;
+  height: 15px;
+}
+.delete-btn {
+  background-color: transparent;
+  height: 35px;
+  margin-left: auto;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.del-img {
+  height: 25px;
+}
+
+.bg-red {
+  background-color: rgb(202, 57, 57);
+}
+.bg-green {
+  background-color: rgb(6, 207, 147);
+}
+.bg-pink {
+  background-color: rgb(206, 60, 162);
+}
+.bg-skyblue {
+  background-color: rgb(10, 157, 202);
+}
+.bg-yellow {
+  background-color: rgb(235, 201, 91);
+}
